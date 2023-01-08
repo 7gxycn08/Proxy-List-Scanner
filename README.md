@@ -1,4 +1,5 @@
-![PPS](https://user-images.githubusercontent.com/121936658/211213232-f5dd48c8-1cb4-430b-b366-362aa7422474.png)
+![PPS](https://user-images.githubusercontent.com/121936658/211213991-2e39b16e-1f0d-4e6b-bd50-9118e2961229.png)
+
 
 # PPS
 
@@ -34,7 +35,7 @@ Please make sure to update tests as appropriate.
 
 MIT License
 
-Copyright (c) [2023] [7gxycn08]
+Copyright (c) 2023 7gxycn08
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
