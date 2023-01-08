@@ -38,7 +38,7 @@ Just unzip the file into a folder of your choice.
 5.Not working proxies will be saved in `NonWorking.txt`
 
 
-6.Now put those fake proxy lists committed on github to the test.
+6.Now put those fake proxy lists committed on Github to the test.
 
 
 ## Contributing
