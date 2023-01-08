@@ -6,21 +6,35 @@
 PPS is a Proxy Scanner and Classifier which scans a list of proxy server ipaddress:port and splits them into three categories based on their responses.
 
 1.Working.
+
+
 2.Semi working or Slow.
+
+
 3.Not Working.
 
 
 ## Installation
 
 Currently the script is compiled as a windows executable only.
+
+
 Just unzip the file into a folder of your choice.
 
 
 ## Usage
 1.Place your `ip:port` addresses in `ProxyList.txt`
+
+
 2.Run the script.
+
+
 3.Working proxies will be saved in `Good.txt`
+
+
 4.Semi working will be saved in `SemiSlow.txt`
+
+
 5.Not working proxies will be saved in `NonWorking.txt`
 
 
