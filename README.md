@@ -1,6 +1,6 @@
 # PPS
 
-PPS is a Proxy Scanner and Classifier which scans a list of proxy server ipaddress:port and splits them into three categories based on their responses.
+PPS is a Proxy Scanner and Classifier which scans a list of proxy server `ipaddress:port` and splits them into three categories based on their responses.
 
 ![PPS](https://user-images.githubusercontent.com/121936658/211213991-2e39b16e-1f0d-4e6b-bd50-9118e2961229.png)
 
