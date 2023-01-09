@@ -10,7 +10,7 @@ PPS is a Proxy List Scanner and Classifier which scans a list of proxy server `i
 2.Semi working or Slow.
 
 
-3.Not Working.
+3.Not working.
 
 
 ## Installation
